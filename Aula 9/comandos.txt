@@ -1,0 +1,29 @@
+Class Pessoa{
+	- nome
+	- idade
+	- sexo
+	
+	fazerAniver();
+}
+
+//Uma pessoa ler um livro
+
+class Livro {
+	- titulo
+	- autor
+	- totPaginas
+	- pagAtual
+	- aberto
+	- leitor
+	+ detalhes();
+}
+
+// Interface de livro
+
+class Publicacao {
+	+ abrir();
+	+ fechar();
+	+ folhear();
+	+ avançarPag();
+	+ voltarPag();
+}
