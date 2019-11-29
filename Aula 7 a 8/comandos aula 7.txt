@@ -1,0 +1,78 @@
+class lutador {
+	- nome
+	- nacionalidade
+	- idade
+	- altura
+	- peso
+	- categoria
+	- vitorias
+	- derrotas
+	- empates
+
+	+ apresentar()
+	+ status()
+	+ ganharLuta()
+	+ perderLuta()
+	+ empatarLuta()
+
+	//Criar Construtor e metodos acessores
+modificadores
+
+}
+
+1° Lutador
+
+	nome:Petty Boy
+	nacionalidade:França
+	idade:31
+	altura:1.75
+	peso:68,9
+	categoria: leve
+	vitorias: 11
+	derrotas: 2 
+	empates: 1
+
+2° Lutador
+
+	nome:Putscript
+	nacionalidade:Brasil
+	idade:29
+	altura:1.68
+	peso:57.8
+	categoria:Leve
+	vitorias:14
+	derrotas:2
+	empates:3
+
+3° Lutador
+	
+	nome:Snapshadow
+	nacionalidade:EUA
+	idade:35
+	altura:1.65
+	peso:80.9
+	categoria:médio
+	vitorias:12
+	derrotas:2 
+	empates:3
+
+4° Lutador
+	nome:Dead Code
+	nacionalidade:Austrália
+	idade:28
+	altura:1.93	
+	peso:81.6
+	categoria:Médio
+	vitorias:13
+	derrotas:0	
+	empates:2 
+5° Lutador
+	nome: Ufocobol
+	nacionalidade: Brasil	
+	idade:30
+	altura1.81
+	peso:105.7
+	categoria:Pesado
+	vitorias:2
+	empates:4
+

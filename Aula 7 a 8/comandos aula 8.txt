@@ -1,0 +1,15 @@
+class luta{
+	- desafiado
+	- desaficante
+	- rounds
+	- aprovado
+}
+
+	- regras
+		- so pode ser marcada entre
+lutadores da mesma categoria
+		- desadiado e desafiante devem
+ser diferentes
+		- so pode acontecer se estiver aprovada
+		- so pode ter como resulado um
+a vitoria de um dos lutadores ou o empate 
