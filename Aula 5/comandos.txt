@@ -1,0 +1,33 @@
+ContaBanco (){
+
+	+ numConta
+	# tipo = cc ou cp
+	- dono
+	- saldo
+	- status
+	
+	abrirConta()17:14 24/06/2019
+		status = true ou false
+		conta == cc ganha 50 reais
+		conta == cp ganha 150 reais
+	fecharConta()
+		saldo tem que está 0 
+	depositar()
+		status tem que está true
+	sacar()
+		status tem que está true
+		tenho que ter o saldo para sacar
+	
+	pagarMensal()
+		quando eu chamar esse metodo
+vai ser descontado 12 reais
+		
+}
+
+	OBS: Fazer sets e gets
+	
+ContaBanco (){
+	status == false
+	saldo  == 0
+}
+
